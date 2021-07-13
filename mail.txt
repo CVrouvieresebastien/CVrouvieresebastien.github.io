@@ -1,0 +1,7 @@
+
+Serveur pop/pop3/Imap: mail41.lwspanel.com
+Nom d'utilisateur: contact@rouviere-sebastien.fr
+Adresses email: contact@rouviere-sebastien.fr
+Mot de passe: Votre mot de passe email
+Serveur smtp: mail41.lwspanel.com
+Quota de la boite: 1000 Mo
